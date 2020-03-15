@@ -8,4 +8,4 @@ This is a little script to help you automatically call the league of legends pos
 ![Instruction](/Screenshots/instruction.jpg)
 
 ## Code Runing GIF
-![Code Running GIF](/Screenshots/codeRunning.jpg)
+![Code Running GIF](/Screenshots/codeRunning.gif)
