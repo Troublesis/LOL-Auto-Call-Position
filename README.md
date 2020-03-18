@@ -9,3 +9,6 @@ This is a little script to help you automatically call the league of legends pos
 
 ## Code Runing GIF
 ![Code Running GIF](/Screenshots/codeRunning.gif)
+
+## Flow Chart
+https://whimsical.com/9Eq21i3ZM2cvHrEcoepqt5
